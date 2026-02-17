@@ -15,7 +15,6 @@
 - 💡 Strong foundation in **HTML, Tailwind CSS & JavaScript**
 - 🧠 Practicing problem solving daily
 - 🎯 Preparing for **Internships & Software Developer Roles**
-- ⚡ Fun fact: *I debug faster than I panic 😄*
 
 ---
 
